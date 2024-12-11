@@ -6,6 +6,16 @@
 #include <mutex>
 class Semaphore {
 // TODO: Task3
+private:
+    std::mutex mtx;
+    std::condition_variable cv;
+    int count;
+
+public:
+    Semaphore(int count = 0);
+    void P();
+    void V();
+
 };
 
 
