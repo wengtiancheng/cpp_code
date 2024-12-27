@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "shaweima",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "OP::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-OP-Debug-6d22628397cf5ba080c0.json",
+					"name" : "OP",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "STL::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-STL-Debug-97f5ea3f450510560f4f.json",
+					"name" : "STL",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "person::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-person-Debug-fdb15f789488544c1886.json",
+					"name" : "person",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "shaweima::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-shaweima-Debug-f0fb0b4de19ddb08b1f1.json",
+					"name" : "shaweima",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Users/wtc/Desktop/3_1hw/cplusplus/shaweima/cmake-build-debug",
+		"source" : "D:/Users/wtc/Desktop/3_1hw/cplusplus/shaweima"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

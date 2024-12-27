@@ -1,0 +1,9 @@
+D:/Users/wtc/Desktop/3_1hw/cplusplus/class/cmake-build-debug/CMakeFiles/CardGame.dir
+D:/Users/wtc/Desktop/3_1hw/cplusplus/class/cmake-build-debug/CMakeFiles/MemContext.dir
+D:/Users/wtc/Desktop/3_1hw/cplusplus/class/cmake-build-debug/CMakeFiles/Message.dir
+D:/Users/wtc/Desktop/3_1hw/cplusplus/class/cmake-build-debug/CMakeFiles/Sort.dir
+D:/Users/wtc/Desktop/3_1hw/cplusplus/class/cmake-build-debug/CMakeFiles/Reverse.dir
+D:/Users/wtc/Desktop/3_1hw/cplusplus/class/cmake-build-debug/CMakeFiles/Count.dir
+D:/Users/wtc/Desktop/3_1hw/cplusplus/class/cmake-build-debug/CMakeFiles/ONCE.dir
+D:/Users/wtc/Desktop/3_1hw/cplusplus/class/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Users/wtc/Desktop/3_1hw/cplusplus/class/cmake-build-debug/CMakeFiles/rebuild_cache.dir

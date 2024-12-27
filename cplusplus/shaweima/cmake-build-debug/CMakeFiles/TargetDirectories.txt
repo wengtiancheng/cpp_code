@@ -1,0 +1,6 @@
+D:/Users/wtc/Desktop/3_1hw/cplusplus/shaweima/cmake-build-debug/CMakeFiles/shaweima.dir
+D:/Users/wtc/Desktop/3_1hw/cplusplus/shaweima/cmake-build-debug/CMakeFiles/person.dir
+D:/Users/wtc/Desktop/3_1hw/cplusplus/shaweima/cmake-build-debug/CMakeFiles/OP.dir
+D:/Users/wtc/Desktop/3_1hw/cplusplus/shaweima/cmake-build-debug/CMakeFiles/STL.dir
+D:/Users/wtc/Desktop/3_1hw/cplusplus/shaweima/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Users/wtc/Desktop/3_1hw/cplusplus/shaweima/cmake-build-debug/CMakeFiles/rebuild_cache.dir

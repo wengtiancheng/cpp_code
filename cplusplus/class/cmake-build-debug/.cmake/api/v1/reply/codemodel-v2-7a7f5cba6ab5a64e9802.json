@@ -1,0 +1,114 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "CardGame",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "CardGame::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CardGame-Debug-9b14cde989d602e3a037.json",
+					"name" : "CardGame",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Count::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Count-Debug-bc39f47014db35ca5ecc.json",
+					"name" : "Count",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "MemContext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MemContext-Debug-b1bf47069e994386d069.json",
+					"name" : "MemContext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Message::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Message-Debug-f22d06c52d8f7e879508.json",
+					"name" : "Message",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ONCE::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ONCE-Debug-a13abfa1ee4c3b1a17a7.json",
+					"name" : "ONCE",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Reverse::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Reverse-Debug-7d8834ffddfafb529fe4.json",
+					"name" : "Reverse",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Sort::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Sort-Debug-50ff30b053391e9ee458.json",
+					"name" : "Sort",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Users/wtc/Desktop/3_1hw/cplusplus/class/cmake-build-debug",
+		"source" : "D:/Users/wtc/Desktop/3_1hw/cplusplus/class"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
